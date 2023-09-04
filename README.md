@@ -4,7 +4,7 @@ Welcome to our Portfolio Project landing page! Here, you'll find everything you 
 
 ## About the Project
 
-Our Portfolio Project is a captivating and engaging game called "Spectrum Craze." In this colorful puzzle game, players are tasked with matching clusters of pigments to earn points and complete various objectives. It's a delightful and addictive experience that offers hours of entertainment.
+Our Portfolio Project is a captivating and engaging game called "Spectrum Craze." In this colorful puzzle game, players are tasked with matching clusters of pigments to earn points and complete various objectives. It's a delightful and addictive experience that offers hours of enjoyable entertainment.
 
 ### Key Features
 
